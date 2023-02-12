@@ -6,6 +6,11 @@
 </p>
 
 
+## ✅ Deploy 
+
+- CLIQUE AQUI [Henrriky.github.io/RocketNFT/]
+
+
 ## 💻 Projeto
 
 Neste desafio você deverá desenvolver uma landing page completa sobre NFTs.
