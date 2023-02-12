@@ -8,7 +8,7 @@
 
 ## ✅ Deploy 
 
-- CLIQUE AQUI [Henrriky.github.io/RocketNFT/]
+- <a href="Henrriky.github.io/RocketNFT/" target="blank">CLIQUE AQUI PARA ABRIR O PROJETO</a>
 
 
 ## 💻 Projeto
